@@ -1,5 +1,4 @@
 # Farmacia-React-NodeJS-SpringBoot
-
 Este proyecto en el sector farmacéutico utiliza Redux y API Gateway para la gestión de información y comunicación.
 
 🔄 Redux es una biblioteca de JavaScript para la gestión de estados en aplicaciones de React. En el proyecto, se usa para mantener un estado global en la aplicación y gestionar información sobre medicamentos como nombre, descripción, precio y disponibilidad. Esto permite compartir información entre componentes de manera eficiente y mantener un estado actualizado y consistente.
