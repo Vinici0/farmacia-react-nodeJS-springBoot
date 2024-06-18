@@ -7,7 +7,6 @@ Este proyecto en el sector farmacéutico utiliza Redux y API Gateway para la ges
 Para los comandos de un proyecto con React, Spring Boot y Node.js, puedes usar los siguientes comandos:<br>
 
 Para React:<br>
-
 ```
 npm install
 npm start
